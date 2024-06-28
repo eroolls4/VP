@@ -67,7 +67,7 @@ namespace FLYING_BALLS
             if (gameStarted)
             {
                 timer1.Start();
-                pauseButton.Text = "STOPP MAKE A POSEE";
+                pauseButton.Text = "STOPP";
             }
             else
             {
