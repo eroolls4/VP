@@ -1,0 +1,11 @@
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\OnlinePayments2024\bin\Debug\OnlinePayments2024.exe.config
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\OnlinePayments2024\bin\Debug\OnlinePayments2024.exe
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\OnlinePayments2024\bin\Debug\OnlinePayments2024.pdb
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\OnlinePayments2024\obj\Debug\OnlinePayments2024.csproj.AssemblyReference.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\OnlinePayments2024\obj\Debug\OnlinePayments2024.Form1.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\OnlinePayments2024\obj\Debug\OnlinePayments2024.Properties.Resources.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\OnlinePayments2024\obj\Debug\OnlinePayments2024.csproj.GenerateResource.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\OnlinePayments2024\obj\Debug\OnlinePayments2024.csproj.CoreCompileInputs.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\OnlinePayments2024\obj\Debug\OnlinePayments2024.exe
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\OnlinePayments2024\obj\Debug\OnlinePayments2024.pdb
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\OnlinePayments2024\obj\Debug\OnlinePayments2024.AddStudent.resources

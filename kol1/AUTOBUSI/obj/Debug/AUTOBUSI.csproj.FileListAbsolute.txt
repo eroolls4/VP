@@ -1,0 +1,12 @@
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AUTOBUSI\bin\Debug\AUTOBUSI.exe.config
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AUTOBUSI\bin\Debug\AUTOBUSI.exe
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AUTOBUSI\bin\Debug\AUTOBUSI.pdb
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AUTOBUSI\obj\Debug\AUTOBUSI.csproj.AssemblyReference.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AUTOBUSI\obj\Debug\AUTOBUSI.AddBuss.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AUTOBUSI\obj\Debug\AUTOBUSI.AddLine.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AUTOBUSI\obj\Debug\AUTOBUSI.Form1.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AUTOBUSI\obj\Debug\AUTOBUSI.Properties.Resources.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AUTOBUSI\obj\Debug\AUTOBUSI.csproj.GenerateResource.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AUTOBUSI\obj\Debug\AUTOBUSI.csproj.CoreCompileInputs.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AUTOBUSI\obj\Debug\AUTOBUSI.exe
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AUTOBUSI\obj\Debug\AUTOBUSI.pdb

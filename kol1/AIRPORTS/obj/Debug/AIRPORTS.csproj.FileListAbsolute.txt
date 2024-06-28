@@ -1,0 +1,12 @@
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AIRPORTS\bin\Debug\AIRPORTS.exe.config
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AIRPORTS\bin\Debug\AIRPORTS.exe
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AIRPORTS\bin\Debug\AIRPORTS.pdb
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AIRPORTS\obj\Debug\AIRPORTS.csproj.AssemblyReference.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AIRPORTS\obj\Debug\AIRPORTS.AddAirport.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AIRPORTS\obj\Debug\AIRPORTS.AddDestination.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AIRPORTS\obj\Debug\AIRPORTS.Form1.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AIRPORTS\obj\Debug\AIRPORTS.Properties.Resources.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AIRPORTS\obj\Debug\AIRPORTS.csproj.GenerateResource.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AIRPORTS\obj\Debug\AIRPORTS.csproj.CoreCompileInputs.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AIRPORTS\obj\Debug\AIRPORTS.exe
+C:\Users\Eroll Saqipi\Desktop\VP\kol1\AIRPORTS\obj\Debug\AIRPORTS.pdb

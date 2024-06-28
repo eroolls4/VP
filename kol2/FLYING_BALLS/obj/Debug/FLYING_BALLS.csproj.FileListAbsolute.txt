@@ -1,0 +1,10 @@
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\FLYING_BALLS\bin\Debug\FLYING_BALLS.exe.config
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\FLYING_BALLS\bin\Debug\FLYING_BALLS.exe
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\FLYING_BALLS\bin\Debug\FLYING_BALLS.pdb
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\FLYING_BALLS\obj\Debug\FLYING_BALLS.csproj.AssemblyReference.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\FLYING_BALLS\obj\Debug\FLYING_BALLS.Form1.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\FLYING_BALLS\obj\Debug\FLYING_BALLS.Properties.Resources.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\FLYING_BALLS\obj\Debug\FLYING_BALLS.csproj.GenerateResource.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\FLYING_BALLS\obj\Debug\FLYING_BALLS.csproj.CoreCompileInputs.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\FLYING_BALLS\obj\Debug\FLYING_BALLS.exe
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\FLYING_BALLS\obj\Debug\FLYING_BALLS.pdb

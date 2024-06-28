@@ -1,0 +1,10 @@
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\DrawingShapes\bin\Debug\DrawingShapes.exe.config
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\DrawingShapes\bin\Debug\DrawingShapes.exe
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\DrawingShapes\bin\Debug\DrawingShapes.pdb
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\DrawingShapes\obj\Debug\DrawingShapes.csproj.AssemblyReference.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\DrawingShapes\obj\Debug\DrawingShapes.Form1.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\DrawingShapes\obj\Debug\DrawingShapes.Properties.Resources.resources
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\DrawingShapes\obj\Debug\DrawingShapes.csproj.GenerateResource.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\DrawingShapes\obj\Debug\DrawingShapes.csproj.CoreCompileInputs.cache
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\DrawingShapes\obj\Debug\DrawingShapes.exe
+C:\Users\Eroll Saqipi\Desktop\VP\kol2\DrawingShapes\obj\Debug\DrawingShapes.pdb

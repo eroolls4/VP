@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\airports\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\airports\\adddestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|solutionrelative:adddestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\airports\\models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|solutionrelative:models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\airports\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\airports\\adddestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|solutionrelative:adddestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\airports\\addairport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|solutionrelative:addairport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\airports\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|solutionrelative:models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\airports\\addairport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B07868E6-F445-4236-BDB1-7088F5169E6B}|AIRPORTS.csproj|solutionrelative:addairport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1494831367:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA0wCsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:33:21.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddAirport.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\AddAirport.cs",
+              "RelativeDocumentMoniker": "AddAirport.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\AddAirport.cs",
+              "RelativeToolTip": "AddAirport.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwHYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:44:42.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Airport.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\Models\\Airport.cs",
+              "RelativeDocumentMoniker": "Models\\Airport.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\Models\\Airport.cs",
+              "RelativeToolTip": "Models\\Airport.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:26:52.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:26:16.312Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddDestination.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\AddDestination.cs",
+              "RelativeDocumentMoniker": "AddDestination.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\AddDestination.cs [Design]",
+              "RelativeToolTip": "AddDestination.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:42:28.084Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\Models\\Destination.cs",
+              "RelativeToolTip": "Models\\Destination.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:27:07.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddAirport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\AddAirport.cs",
+              "RelativeDocumentMoniker": "AddAirport.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\AddAirport.cs [Design]",
+              "RelativeToolTip": "AddAirport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:42:06.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddDestination.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\AddDestination.cs",
+              "RelativeDocumentMoniker": "AddDestination.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AIRPORTS\\AddDestination.cs",
+              "RelativeToolTip": "AddDestination.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:46:39.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

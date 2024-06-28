@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol2\\DrawingShapes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D35A6A3-7A81-4B0C-8383-44AA5C19013E}|DrawingShapes.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol2\\drawingshapes\\models\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D35A6A3-7A81-4B0C-8383-44AA5C19013E}|DrawingShapes.csproj|solutionrelative:models\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D35A6A3-7A81-4B0C-8383-44AA5C19013E}|DrawingShapes.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol2\\drawingshapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D35A6A3-7A81-4B0C-8383-44AA5C19013E}|DrawingShapes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D35A6A3-7A81-4B0C-8383-44AA5C19013E}|DrawingShapes.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol2\\drawingshapes\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D35A6A3-7A81-4B0C-8383-44AA5C19013E}|DrawingShapes.csproj|solutionrelative:models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D35A6A3-7A81-4B0C-8383-44AA5C19013E}|DrawingShapes.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol2\\drawingshapes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D35A6A3-7A81-4B0C-8383-44AA5C19013E}|DrawingShapes.csproj|solutionrelative:scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D35A6A3-7A81-4B0C-8383-44AA5C19013E}|DrawingShapes.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol2\\drawingshapes\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D35A6A3-7A81-4B0C-8383-44AA5C19013E}|DrawingShapes.csproj|solutionrelative:models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D35A6A3-7A81-4B0C-8383-44AA5C19013E}|DrawingShapes.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol2\\drawingshapes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D35A6A3-7A81-4B0C-8383-44AA5C19013E}|DrawingShapes.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1494831367:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol2\\DrawingShapes\\Models\\Square.cs",
+              "RelativeDocumentMoniker": "Models\\Square.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol2\\DrawingShapes\\Models\\Square.cs",
+              "RelativeToolTip": "Models\\Square.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBsAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:29:37.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol2\\DrawingShapes\\Scene.cs",
+              "RelativeDocumentMoniker": "Scene.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol2\\DrawingShapes\\Scene.cs",
+              "RelativeToolTip": "Scene.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwC4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:27:12.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol2\\DrawingShapes\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol2\\DrawingShapes\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:19:15.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol2\\DrawingShapes\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol2\\DrawingShapes\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:04:46.12Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol2\\DrawingShapes\\Models\\Circle.cs",
+              "RelativeDocumentMoniker": "Models\\Circle.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol2\\DrawingShapes\\Models\\Circle.cs",
+              "RelativeToolTip": "Models\\Circle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:05:45.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol2\\DrawingShapes\\Models\\Shape.cs",
+              "RelativeDocumentMoniker": "Models\\Shape.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol2\\DrawingShapes\\Models\\Shape.cs",
+              "RelativeToolTip": "Models\\Shape.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:05:30.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

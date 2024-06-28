@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\autobusi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\autobusi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\autobusi\\addline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|solutionrelative:addline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\autobusi\\addline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|solutionrelative:addline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\autobusi\\models\\autobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|solutionrelative:models\\autobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\autobusi\\models\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|solutionrelative:models\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\autobusi\\addbuss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|solutionrelative:addbuss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\autobusi\\addbuss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|solutionrelative:addbuss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|c:\\users\\eroll saqipi\\desktop\\vp\\kol1\\autobusi\\addbuss.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA325AF0-B4F3-4427-AAE2-08AE093CF3A8}|AUTOBUSI.csproj|solutionrelative:addbuss.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1494831367:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Autobus.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\Models\\Autobus.cs",
+              "RelativeDocumentMoniker": "Models\\Autobus.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\Models\\Autobus.cs",
+              "RelativeToolTip": "Models\\Autobus.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwEQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:50:34.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddLine.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\AddLine.cs",
+              "RelativeDocumentMoniker": "AddLine.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\AddLine.cs",
+              "RelativeToolTip": "AddLine.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:10:41.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:49:58.684Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\Models\\Line.cs",
+              "RelativeDocumentMoniker": "Models\\Line.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\Models\\Line.cs",
+              "RelativeToolTip": "Models\\Line.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:50:42.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddLine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\AddLine.cs",
+              "RelativeDocumentMoniker": "AddLine.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\AddLine.cs [Design]",
+              "RelativeToolTip": "AddLine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:04:11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAF4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:00:33.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddBuss.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\AddBuss.Designer.cs",
+              "RelativeDocumentMoniker": "AddBuss.Designer.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\AddBuss.Designer.cs",
+              "RelativeToolTip": "AddBuss.Designer.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAmwEAAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:26:28.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddBuss.cs",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\AddBuss.cs",
+              "RelativeDocumentMoniker": "AddBuss.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\AddBuss.cs",
+              "RelativeToolTip": "AddBuss.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:07:55.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddBuss.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\AddBuss.cs",
+              "RelativeDocumentMoniker": "AddBuss.cs",
+              "ToolTip": "C:\\Users\\Eroll Saqipi\\Desktop\\VP\\kol1\\AUTOBUSI\\AddBuss.cs [Design]",
+              "RelativeToolTip": "AddBuss.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:04:26.145Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
